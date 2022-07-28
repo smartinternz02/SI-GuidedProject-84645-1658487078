@@ -13,3 +13,5 @@ https://www.credly.com/badges/e7e3f80c-0c0a-4efe-b0e9-53ac07c12261/public_url
 App Modernization Basics
 https://www.credly.com/badges/01766bb4-554a-45fe-a256-c38883a1f1e6/public_url 
 
+Introduction To Containers, Kubernetes, And OpenShift
+https://www.credly.com/badges/fce767c1-fd33-4ae5-814c-38d3e2ccde90/public_url 
